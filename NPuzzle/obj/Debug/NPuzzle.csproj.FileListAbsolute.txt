@@ -1,0 +1,10 @@
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\bin\Debug\NPuzzle.exe.config
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\bin\Debug\NPuzzle.exe.config
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\bin\Debug\NPuzzle.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\bin\Debug\NPuzzle.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\obj\Debug\NPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\obj\Debug\NPuzzle.GameForm.resources
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\obj\Debug\NPuzzle.Properties.Resources.resources
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\obj\Debug\NPuzzle.csproj.GenerateResource.Cache
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\obj\Debug\NPuzzle.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\NPuzzle\NPuzzle\obj\Debug\NPuzzle.pdb

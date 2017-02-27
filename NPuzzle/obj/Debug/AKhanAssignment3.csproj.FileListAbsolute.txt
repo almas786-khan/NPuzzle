@@ -1,0 +1,24 @@
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.exe.config
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.GameForm.resources
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.Properties.Resources.resources
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.csproj.GenerateResource.Cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.exe.config
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.GameForm.resources
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.Properties.Resources.resources
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.csproj.GenerateResource.Cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.exe.config
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\Assignments\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\bin\Debug\AKhanAssignment3.exe.config
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment3\AKhanAssignment3\AKhanAssignment3\obj\Debug\AKhanAssignment3.pdb
